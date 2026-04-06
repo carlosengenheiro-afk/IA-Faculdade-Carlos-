@@ -1,0 +1,3 @@
+Elaborar modelo de classificação.
+
+Elaborar modelo de segmentação.
